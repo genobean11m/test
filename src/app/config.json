@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "supportEmail": "fabiopolini@geotab.com",
+  "version": "0.0.1",
+  "items": [{
+    "url": "test.html",
+    "path": "EngineMaintenanceLink/",
+    "menuName": {
+      "en": "test"
+    },
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "test",
+    "dist": {
+      "host": "https://cdn.jsdelivr.net/gh/genobean11m/test@master/dist/"
+    }
+  }
+}
